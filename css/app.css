@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
+body {
+    background: rgb(10, 18, 31) !important;
+    background: linear-gradient(119deg, rgba(10, 18, 31, 1) 0%, rgba(9, 17, 31, 1) 100%) !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 .title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+nav {
+    background: rgb(10, 18, 31) !important;
+    background: linear-gradient(119deg, rgba(10, 18, 31, 1) 0%, rgba(9, 17, 31, 1) 100%) !important;
+}
+
+.card-bg {
+    background-color: #0E1623;
+}
