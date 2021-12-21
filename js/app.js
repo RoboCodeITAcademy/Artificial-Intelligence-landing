@@ -3,7 +3,9 @@ var splide = new Splide('.splide', {
     speed: 400,
     perPage: 3,
     padding: "1em",
-    gap: "1em"
+    gap: "1em",
+    autoPlay: true,
+    interval: 1000
 });
 
 splide.mount();
